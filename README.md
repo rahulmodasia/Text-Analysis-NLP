@@ -6,3 +6,11 @@ Text Analytics involves information retrieval from unstructured data and the pro
 It also involves lexical analysis, categorization, clustering, pattern recognition, tagging, annotation, information extraction, link and association analysis, visualization, and predictive analytics. 
 Text Analytics determines key words, topics, category, semantics, tags from the millions of text data available in an organization in different files and formats. 
 The term Text Analytics is synonymous with text mining.
+Extract a set of keywords
+Similarity of sentences/documents
+Classify the text into groups
+Analyze the sentiment
+Named Entity Recognition
+Outlier detection
+Dynamic prediction of what comes next in a sentence
+Chat-bots
